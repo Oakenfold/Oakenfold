@@ -1,8 +1,8 @@
 - 👋 Hola, soy @ediazhu
 - 👀 ¿Intereses? nada por ahora. 
-- 🌱 Actualmente aprendiendo JS puro ...
+- 🌱 Actualmente aprendiendo R y uhm! algo de JS
 - 💞️ ¿Colaborar? Yo hago mis cosas solo (Nah mentira, ayudame!)
-- 📫 No, ni idea.
+- 📫 Escríbeme a ediazh@unsa.edu.pe , aunque no creo que tengas motivos para enviarme un mail. :)
 
 <!---
 Oakenfold/Oakenfold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
