@@ -17,4 +17,4 @@
 📬 **¡Envíame un PM!**  
 📸 **Instagram?**  
 🐦 **Twitter?**  
-**¡Sí claro! Pero primero envíame un PM!**
+**¡Sí claro! <--- A la izquierda**
