@@ -1,10 +1,20 @@
-- 👋 Hola, soy @ediazhu
-- 👀 ¿Intereses? nada por ahora. 
-- 🌱 Actualmente desarrollo pequeñas apps en Python y JS.
-- 💞️ ¿Colaborar? Yo hago mis cosas solo (Nah mentira, ayudame!)
-- 📫 Escríbeme a mi privado si necesitas algo, aunque no creo que tengas motivos para enviarme un mail. :)
+# ¡Hola, soy Eduardo Diaz Huayhuas! 👋
 
-<!---
-Oakenfold/Oakenfold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre mí
+👨‍🔬 **Ingeniero Químico de Profesión**  
+💻 **Desarrollador de aplicaciones web por pasión (y necesidad)**  
+🩻 **Futuro Radiólogo por locura de aprender!**
+
+## Proyectos Destacados
+- 🚀 **Orquestación de pequeños proyectos en Kubernetes**
+- 🐍 **Desarrollo de aplicaciones en Python para automatización**
+
+## Tecnologías
+- 🐍 **Python**
+- 🌐 **Algo de JavaScript**
+
+## Contacto
+📬 **¡Envíame un PM!**  
+📸 **Instagram?**  
+🐦 **Twitter?**  
+**¡Sí claro! Pero primero envíame un PM!**
