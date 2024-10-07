@@ -1,20 +1,20 @@
 # ¡Hola, soy Eduardo Diaz Huayhuas! 👋
 
 ## Sobre mí
-👨‍🔬 **Ingeniero Químico de Profesión**  
-💻 **Desarrollador de aplicaciones web por pasión (y necesidad)**  
-🩻 **Futuro Radiólogo por locura de aprender!**
+👨‍🔬 Ingeniero Químico de Profesión  
+💻 Desarrollador de aplicaciones web por pasión (y necesidad)  
+🩻 Futuro Radiólogo por locura de aprender!
 
 ## Proyectos Destacados
-- 🚀 **Orquestación de pequeños proyectos en Kubernetes**
-- 🐍 **Desarrollo de aplicaciones en Python para automatización**
+- 🚀 Orquestación de pequeños proyectos en Kubernetes
+- 🐍 Desarrollo de aplicaciones en Python para automatización
 
 ## Tecnologías
-- 🐍 **Python**
-- 🌐 **Algo de JavaScript**
+- 🐍 Python
+- 🌐 Algo de JavaScript
 
 ## Contacto
-📬 **¡Envíame un PM!**  
-📸 **Instagram?**  
-🐦 **Twitter?**  
-**¡Sí claro! <--- A la izquierda**
+📬 ¡Envíame un PM!  
+📸 Instagram?  
+🐦 Twitter?  
+¡Sí claro! Pero eso aparece en el frame izquierdo!!
